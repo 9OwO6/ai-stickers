@@ -1,0 +1,18 @@
+name: 请求适配其他平台
+description: 希望在哪个 AI 网页里使用表情抽屉？
+title: "[适配] "
+body:
+  - type: input
+    id: platform
+    attributes:
+      label: 平台名称和网页域名
+      placeholder: 示例：某 AI · example.com
+    validations:
+      required: true
+  - type: textarea
+    id: usage
+    attributes:
+      label: 希望支持的使用场景
+      description: 是否支持图片上传？请提供不含个人数据的页面说明。
+    validations:
+      required: true

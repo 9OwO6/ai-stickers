@@ -1,0 +1,17 @@
+name: 报告问题
+description: 添加、导入、面板或发送遇到了问题
+title: "[Bug] "
+body:
+  - type: input
+    id: environment
+    attributes:
+      label: 扩展版本、浏览器版本及平台
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 复现步骤与预期结果
+      description: 请遮掉截图中的私人聊天；不要上传个人备份或凭据。
+    validations:
+      required: true

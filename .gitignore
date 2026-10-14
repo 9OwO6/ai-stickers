@@ -1,0 +1,11 @@
+node_modules/
+.test-profiles/
+test-results/
+playwright-report/
+*.log
+.env*
+随手表情备份*.json
+exports/
+private/
+Thumbs.db
+.DS_Store

@@ -1,0 +1,14 @@
+{
+  "name": "ai-stickers",
+  "version": "0.5.0",
+  "private": true,
+  "description": "Local sticker drawer for AI conversations",
+  "scripts": {
+    "test": "node tests/smoke.cjs",
+    "docs:images": "node tests/smoke.cjs --screenshots"
+  },
+  "devDependencies": {
+    "playwright": "1.62.1"
+  },
+  "license": "MIT"
+}
