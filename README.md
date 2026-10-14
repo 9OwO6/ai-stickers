@@ -3,7 +3,7 @@
 <p align="center">聊天里的一个眼神、一只小狗、一句没打出来的「哈哈哈」。</p>
 <p align="center">把自己的表情收藏，带进 AI 对话。</p>
 
-![随手表情介绍](docs/images/hero.svg)
+![随手表情介绍](docs/images/hero.png)
 
 **对于喜欢聊天时发表情包的人来说，这个小插件可能会有用。**
 
