@@ -1,9 +1,9 @@
-# 企鹅形象
+# 香企鹅二创形象
 
-0.5.1 使用内置 imagegen 生成的原创企鹅头像，随后仅进行透明边界裁剪和图标尺寸缩放。它用于扩展图标、网页按钮和 README 横幅，不是任何既有角色的官方授权形象。
+0.5.2 使用作者确认的香企鹅参考，通过内置 imagegen 转绘为二次元 Q 版：露出少女脸、黑色短发与齐刘海，企鹅头套保留黄色嘴，闭眼笑、举起小翅膀，白肚子和简化金属领扣。不是 3D，也不是普通鸟脸。
 
-素材：`images/penguin.png`；扩展提供 16、32、48、128 像素 PNG 图标。横幅文字由网页排版后截图生成，以保证中文准确。
+素材：images/penguin.png；扩展提供 16、32、48、128 像素 PNG。仅做透明边界裁剪及尺寸缩放，横幅中文通过网页排版。
 
-生成提示词：
+生成提示概要：Based on the reference RIGHT Endministrator penguin girl, pure 2D anime cel shading, human girl face visible in penguin hood, black bob and blunt bangs, crossed hair clips, yellow beak above forehead, white belly, silver collar clasp, joyful closed-eye human smile, raised flipper, transparent background; no 3D, realism, text or ordinary bird face.
 
-> Create a single original adorable penguin mascot avatar for a Chinese meme sticker browser extension, inspired by the goofy '咕咕嘎嘎' penguin meme mood. A plump round black charcoal penguin with a cream white face and belly, tiny orange beak open as if saying gu gu ga ga, absurdly innocent wide eyes looking slightly upward, two tiny flippers lifted beside cheeks, rounded simple silhouette, a little fluffy tuft on top. Close-up head and upper body filling 85% of a square canvas, centered. Crisp bold dark outlines, flat soft colors with minimal gentle shading, charming expressive sticker illustration, professionally finished, legible at 16px. Actual transparent background. No lettering, no watermark, no extra objects, no surrounding badge. Design a fresh original character rather than copying a particular existing character exactly.
+该形象为《明日方舟：终末地》相关角色的非官方二创展示，不宣称独立原创角色或官方授权；此类图标与横幅不纳入源码 MIT 授权。
