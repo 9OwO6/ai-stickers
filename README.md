@@ -11,6 +11,26 @@
 
 目前只支持 **ChatGPT 和 Muse 网页**。如果你希望适配其他平台，欢迎[提交适配需求](https://github.com/9OwO6/ai-stickers/issues/new?template=platform.yml)，或通过 [GitHub](https://github.com/9OwO6) 联系作者。
 
+## 一分钟短片：我还是想发这张
+
+下班想发一张，开心想发一张，连说晚安也想再发一张。聊天窗口换成 AI，那个爱发表情的自己，也想一起带过去。
+
+<p align="center">
+  <a href="https://github.com/9OwO6/ai-stickers/releases/download/promo-warm-chat/warm-chat-720p.mp4">
+    <img src="docs/videos/warm-chat-cover.jpg" width="360" alt="点击观看温馨短片《我还是想发这张》：男孩想把熟悉的小猫表情发给 AI">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/9OwO6/ai-stickers/releases/download/promo-warm-chat/warm-chat-720p.mp4">▶ 观看 / 下载短片 · 720p</a> ·
+  <a href="https://github.com/9OwO6/ai-stickers/releases/download/promo-warm-chat/warm-chat.mp4">1080p 高清版</a> ·
+  <a href="https://github.com/9OwO6/ai-stickers/releases/tag/promo-warm-chat">视频与小猫表情下载</a>
+</p>
+
+视频约 60 秒，点击封面即可打开视频文件，浏览器可能直接播放或下载。片中的六张小猫也可下载，解压后通过「管理 → 多图导入」加入自己的收藏夹。
+
+> 这是一支温馨剧情短片，画面由 AI 生成并制作成动态分镜，配音为合成语音。插件操作为隔离浏览器中的实际录制，聊天页面及 AI 接话为剧情示意，不是真实模型回复，也不保证每次都能准确理解表情。[制作与验证说明](docs/videos/README.md)
+
 ## 新手安装：从下载到发出第一个表情
 
 目前使用开发者模式安装，**尚未上架 Chrome Web Store**。
