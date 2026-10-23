@@ -11,6 +11,24 @@
 
 目前只支持 **ChatGPT 和 Muse 网页**。如果你希望适配其他平台，欢迎[提交适配需求](https://github.com/9OwO6/ai-stickers/issues/new?template=platform.yml)，或通过 [GitHub](https://github.com/9OwO6) 联系作者。
 
+## 宣传片：点一下，就够了
+
+想配一张图的那一刻，往往等不到你翻完文件夹。随手表情把收藏放在聊天框旁边，点一下，文字和表情一起发出去。
+
+<p align="center">
+  <a href="https://github.com/9OwO6/ai-stickers/releases/download/promo-one-click/one-click-en-720p.mp4">
+    <img src="docs/videos/one-click-cover.jpg" width="560" alt="点击观看宣传片《点一下，就够了》：得意的小猫表情和企鹅表情飞向镜头">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/9OwO6/ai-stickers/releases/download/promo-one-click/one-click-en-720p.mp4">▶ 观看 · 英语配音中文字幕 720p</a> ·
+  <a href="https://github.com/9OwO6/ai-stickers/releases/download/promo-one-click/one-click-en-1080p.mp4">1080p60</a> ·
+  <a href="https://github.com/9OwO6/ai-stickers/releases/download/promo-one-click/one-click-zh-1080p.mp4">中文配音版</a>
+</p>
+
+> 60 秒横屏宣传片。画面由代码逐帧渲染，插件和聊天界面是重画的示意画面，不是录屏；AI 回复为剧情示意。表情素材来自 Microsoft Fluent Emoji（MIT）。[制作说明](docs/videos/README.md)
+
 ## 一分钟短片：我还是想发这张
 
 下班想发一张，开心想发一张，连说晚安也想再发一张。聊天窗口换成 AI，那个爱发表情的自己，也想一起带过去。

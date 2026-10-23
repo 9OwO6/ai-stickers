@@ -1,4 +1,33 @@
-# 《我还是想发这张》
+# 宣传短片
+
+## 《点一下，就够了》
+
+一支 60 秒的横屏宣传片，16:9，1080p60。英语配音配中文字幕，另有中文配音版。
+
+深夜，方案终于过了，想配那张得意的小猫一起发出去。另存为、翻下载文件夹、点开微信收藏里打不开的 .dat……等找到图，那股劲儿已经过去了。打开随手表情，点一下，文字和表情一起发了出去。
+
+**和 AI 聊天，也把表情带上。**
+
+### 视频下载
+
+- [英语配音 + 中文字幕 · 720p 轻量版，约 5.9 MiB](https://github.com/9OwO6/ai-stickers/releases/download/promo-one-click/one-click-en-720p.mp4)
+- [英语配音 + 中文字幕 · 1080p60，约 35.1 MiB](https://github.com/9OwO6/ai-stickers/releases/download/promo-one-click/one-click-en-1080p.mp4)
+- [中文配音 · 1080p60，约 36.0 MiB](https://github.com/9OwO6/ai-stickers/releases/download/promo-one-click/one-click-zh-1080p.mp4)
+- 字幕 SRT：[英语原文](one-click.en.srt) · [中文](one-click.zh.srt)
+- [完整发布页](https://github.com/9OwO6/ai-stickers/releases/tag/promo-one-click)
+
+### 制作说明
+
+- 画面全部由代码在浏览器里逐帧渲染：虚拟摄像机、景深、运动模糊，剪辑点都落在 96 BPM 的节拍上。不是录屏，也不是 AI 生成的画面。
+- 插件面板、导入预览和微信导出工具，是按扩展 0.5.2 和导出工具 0.2 的布局与配色用 HTML/CSS 重画的示意画面，不是实机录屏。聊天窗口是通用示意界面，不代表任何平台的真实界面；AI 的回复是剧情示意。
+- 导出工具画面里的数量（如"成功 128 · 重复 6"）是示意数字。导出工具仍是试用版，尚未在真实微信版本上完成验证，不保证能恢复全部历史表情。
+- 配音使用 Microsoft Edge 合成语音：英语为 Ava，中文为 Xiaoxiao，没有克隆真人声音。配乐与音效为程序原创合成。
+- 片中表情来自 [Microsoft Fluent Emoji](https://github.com/microsoft/fluentui-emoji)，MIT 许可，Copyright (c) Microsoft Corporation。扩展本身不预置这些表情。
+- 成片为 H.264 / AAC，1920×1080、60 fps，响度标准化到 -14 LUFS。
+
+---
+
+## 《我还是想发这张》
 
 一支关于给 AI 发表情的温馨生活短片，约 60 秒，9:16 竖屏。
 
