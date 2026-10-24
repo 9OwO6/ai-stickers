@@ -16,15 +16,15 @@
 想配一张图的那一刻，往往等不到你翻完文件夹。随手表情把收藏放在聊天框旁边，点一下，文字和表情一起发出去。
 
 <p align="center">
-  <a href="https://github.com/9OwO6/ai-stickers/releases/download/promo-one-click/one-click-en-720p.mp4">
+  <a href="https://9owo6.github.io/ai-stickers/watch.html?film=one-click&amp;v=en-720p">
     <img src="docs/videos/one-click-cover.jpg" width="560" alt="点击观看宣传片《点一下，就够了》：得意的小猫表情和企鹅表情飞向镜头">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/9OwO6/ai-stickers/releases/download/promo-one-click/one-click-en-720p.mp4">▶ 观看 · 英语配音中文字幕 720p</a> ·
-  <a href="https://github.com/9OwO6/ai-stickers/releases/download/promo-one-click/one-click-en-1080p.mp4">1080p60</a> ·
-  <a href="https://github.com/9OwO6/ai-stickers/releases/download/promo-one-click/one-click-zh-1080p.mp4">中文配音版</a>
+  <a href="https://9owo6.github.io/ai-stickers/watch.html?film=one-click&amp;v=en-720p">▶ 在线观看 · 英语配音中文字幕 720p</a> ·
+  <a href="https://9owo6.github.io/ai-stickers/watch.html?film=one-click&amp;v=en-1080p">1080p60</a> ·
+  <a href="https://9owo6.github.io/ai-stickers/watch.html?film=one-click&amp;v=zh-1080p">中文配音版</a>
 </p>
 
 > 60 秒横屏宣传片。画面由代码逐帧渲染，插件和聊天界面是重画的示意画面，不是录屏；AI 回复为剧情示意。表情素材来自 Microsoft Fluent Emoji（MIT）。[制作说明](docs/videos/README.md)
@@ -34,18 +34,18 @@
 下班想发一张，开心想发一张，连说晚安也想再发一张。聊天窗口换成 AI，那个爱发表情的自己，也想一起带过去。
 
 <p align="center">
-  <a href="https://github.com/9OwO6/ai-stickers/releases/download/promo-warm-chat/warm-chat-720p.mp4">
+  <a href="https://9owo6.github.io/ai-stickers/watch.html?film=warm-chat&amp;v=720p">
     <img src="docs/videos/warm-chat-cover.jpg" width="360" alt="点击观看温馨短片《我还是想发这张》：男孩想把熟悉的小猫表情发给 AI">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/9OwO6/ai-stickers/releases/download/promo-warm-chat/warm-chat-720p.mp4">▶ 观看 / 下载短片 · 720p</a> ·
-  <a href="https://github.com/9OwO6/ai-stickers/releases/download/promo-warm-chat/warm-chat.mp4">1080p 高清版</a> ·
+  <a href="https://9owo6.github.io/ai-stickers/watch.html?film=warm-chat&amp;v=720p">▶ 在线观看 · 720p</a> ·
+  <a href="https://9owo6.github.io/ai-stickers/watch.html?film=warm-chat&amp;v=1080p">1080p 高清版</a> ·
   <a href="https://github.com/9OwO6/ai-stickers/releases/tag/promo-warm-chat">视频与小猫表情下载</a>
 </p>
 
-视频约 60 秒，点击封面即可打开视频文件，浏览器可能直接播放或下载。片中的六张小猫也可下载，解压后通过「管理 → 多图导入」加入自己的收藏夹。
+视频约 60 秒，点击封面即可在线播放，播放页里也有下载链接。片中的六张小猫也可下载，解压后通过「管理 → 多图导入」加入自己的收藏夹。
 
 > 这是一支温馨剧情短片，画面由 AI 生成并制作成动态分镜，配音为合成语音。插件操作为隔离浏览器中的实际录制，聊天页面及 AI 接话为剧情示意，不是真实模型回复，也不保证每次都能准确理解表情。[制作与验证说明](docs/videos/README.md)
 
